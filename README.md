@@ -4,8 +4,8 @@ I'm Brendan, a multidisciplinary software engineer with a background in computer
 
 Here are a few things I'm working on:
 
+- [Pushpop][pushpop], a concatenative language with pattern matching and first-class functions
 - [CM6][cm6], a visual programming platform consisting of an LED matrix display with a built-in ARM CPU
-- [Pushpop][pushpop], a concatenative language for the CM6
 - [ish][ish], a git-based issue tracker
 
 [ish]: https://github.com/brendanberg/ish
